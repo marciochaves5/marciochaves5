@@ -138,19 +138,6 @@ Estou sempre estudando novas tecnologias e buscando escrever código limpo, reut
 
 </p>
 
----
-
-# 🚀 Projetos em Destaque
-
-| Projeto | Tecnologias | Descrição |
-|----------|------------|-----------|
-| 🔧 Oficina Mecânica | C#, .NET, SQL Server | Sistema completo para gerenciamento de clientes, veículos e ordens de serviço |
-| 🎬 Filmes API | ASP.NET Core, EF Core | API REST com CRUD, DTOs, AutoMapper e SQL Server |
-| 🔐 Sistema de Autenticação | ASP.NET Identity | Login, Cadastro, Autenticação e Autorização |
-| 📦 API CRUD | ASP.NET Core | Projeto focado em boas práticas, SOLID e Clean Code |
-
----
-
 # 💻 Current Mission
 
 ```bash
