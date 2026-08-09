@@ -171,16 +171,6 @@ Next Goal:
 
 ---
 
-# 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=marciochaves5&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
 # 🌐 Connect With Me
 
 <div align="center">
