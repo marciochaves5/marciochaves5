@@ -35,59 +35,7 @@
 
 </div>
 
-</div>
-
----
-
-# <img width="35" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"> SYSTEM STATUS
-
-```text
-███████████████████████████████████████ 100%
-
-[✓] Neural Interface..............Connected
-[✓] Backend Engine................Online
-[✓] .NET Runtime..................Loaded
-[✓] REST APIs.....................Operational
-[✓] SQL Databases................Connected
-[✓] Clean Architecture............Enabled
-[✓] SOLID Principles..............Enabled
-[✓] Learning Mode.................Infinite
-```
-
----
-
-# 👨‍💻 Sobre Mim
-
-```yaml
-Nome: Márcio Chaves
-
-Cargo:
-Backend Developer
-
-Especialização:
-C#
-.NET
-ASP.NET Core
-Entity Framework Core
-
-Status:
-Building scalable applications...
-
-```
-
-Sou Desenvolvedor Backend com foco em **C#** e **.NET**, apaixonado por criar aplicações robustas, escaláveis e bem estruturadas.
-
-Tenho experiência no desenvolvimento de **APIs REST** utilizando **ASP.NET Core** e **Entity Framework Core**, implementando CRUDs completos, DTOs, validações, relacionamentos entre entidades e integração com **SQL Server** e **MySQL**.
-
-Também desenvolvo soluções seguindo princípios como **SOLID**, **Clean Code**, **Programação Orientada a Objetos** e boas práticas de arquitetura de software.
-
-Além disso, possuo conhecimentos em **Blazor**, **Python** e **MongoDB**, ampliando minha capacidade de construir soluções modernas dentro do ecossistema .NET.
-
-Estou sempre estudando novas tecnologias e buscando escrever código limpo, reutilizável e de fácil manutenção.
-
----
-
-# ⚙️ Tech Stack
+#  Stacks
 
 <div align="center">
 
@@ -116,83 +64,25 @@ Estou sempre estudando novas tecnologias e buscando escrever código limpo, reut
 
 ---
 
-# 🧠 Arquitetura & Boas Práticas
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/OOP-00599C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SOLID-111111?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Clean_Code-2ECC71?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Design_Patterns-8E44AD?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Identity-512BD4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Scrum-E34F26?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Kanban-007ACC?style=for-the-badge"/>
-
-</p>
-
-# 💻 Current Mission
-
-```bash
-> boot developer
-
-Loading...
-
-✔ Aprimorando ASP.NET Core
-✔ Arquitetura de Software
-✔ Clean Architecture
-✔ Design Patterns
-✔ Microsserviços
-✔ Docker
-✔ Testes Automatizados
-✔ Azure
-
-Next Goal:
-
->> Primeira oportunidade como Backend Developer
-```
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=marciochaves5&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🌐 Connect With Me
+## 🌐 Contato
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/marciochaves5/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:marcioluizchaves3@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020024,30:090979,70:00d4ff,100:000000"/>
-
-### 🤖 "Code. Learn. Build. Repeat."
-
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=00F7FF"/>
+*"Code. Learn. Build. Repeat."*
 
 </div>
