@@ -25,6 +25,8 @@
 ║ MODULES LOADED                                                               ║
 ║ ├─ REST APIs                     ████████████████ 100%                       ║
 ║ ├─ Entity Framework Core         ████████████████ 100%                       ║
+║ ├─ ASP.NET Core Identity         ████████████████ 100%                       ║
+║ ├─ JWT Authentication            ████████████████ 100%                       ║
 ║ ├─ Clean Code                    ████████████████ 100%                       ║
 ║ ├─ SOLID                         ████████████████ 100%                       ║
 ║ └─ Continuous Learning           ████████████████ ∞                          ║
